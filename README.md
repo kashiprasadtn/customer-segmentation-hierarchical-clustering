@@ -88,7 +88,7 @@ customer-segmentation-hierarchical-clustering/
 
 - **Dataset:** Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33 (CC BY 4.0).
 - The analysis is my own implementation and extends an upGrad hierarchical clustering demo, which is not reproduced here.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
