@@ -1,0 +1,5 @@
+Segment,Customers,Recency_median,Frequency_median,Monetary_median,Revenue,Customer share,Revenue share
+Champions,343,9.0,15.0,6127.43,4678735.08,0.0791,0.5265
+Loyal regulars,762,8.0,5.0,1451.95,1380069.43,0.1757,0.1553
+Lapsing,1517,67.0,3.0,1021.48,2364382.853,0.3497,0.266
+Lost / one-off,1716,117.0,1.0,251.61,463846.631,0.3956,0.0522

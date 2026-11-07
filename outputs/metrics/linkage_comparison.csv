@@ -1,0 +1,9 @@
+Linkage,Scaling,Cophenetic r,Sizes at k=4,Largest cluster share
+single,log + standardised,0.4881,"4333, 3, 1, 1",0.9988
+single,raw min-max,0.3349,"4335, 1, 1, 1",0.9993
+complete,log + standardised,0.5773,"2467, 1820, 47, 4",0.5687
+complete,raw min-max,0.8657,"3380, 940, 11, 7",0.7792
+average,log + standardised,0.6757,"4290, 44, 3, 1",0.9889
+average,raw min-max,0.8877,"3706, 625, 5, 2",0.8543
+ward,log + standardised,0.6096,"1716, 1517, 762, 343",0.3956
+ward,raw min-max,0.8127,"1965, 1184, 605, 584",0.453
